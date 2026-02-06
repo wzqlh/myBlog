@@ -1,0 +1,11 @@
+baseURL = "https://wzqlh.github.io/"
+languageCode = "zh-cn"
+title = "我的个人博客"
+theme = "anatole"
+publishDir = "public" # 默认，可不写
+
+[params]
+  author = "凌川工作室"
+  description = "记录技术与思考"
+  # 主题特定配置，如是否显示侧边栏、是否启用代码高亮等
+  highlight = true
