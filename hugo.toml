@@ -1,0 +1,4 @@
+baseURL = 'https://wzqlh.github.io/'
+languageCode = 'zh-cn'
+title = '凌川工作室'
+theme = 'ananke'
